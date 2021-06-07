@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZzIg4BjQFwbHgBY0safntJwXrSfyoeVG3gGpHCgImhBHx4F8Jr5cPvFvJNJ39TBNEsETXxREzpttqZo4ddeIhA==",
+  "success": true,
+  "projectFilePath": "C:\\STUDIA\\2.1 IRL\\CS264 software design\\assignment-01-20141564\\assignment-01-20141564.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
